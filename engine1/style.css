@@ -78,7 +78,7 @@
 	color:transparent;
 }
 #wowslider-container1 img{
-	/* max-width: none !important; */
+	 width:100%;
 }
 #wowslider-container1 .ws_images .ws_list img,
 #wowslider-container1 .ws_images > div > img{
