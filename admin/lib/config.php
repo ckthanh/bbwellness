@@ -36,7 +36,7 @@ We will report with PC50......thank to read!
 
 error_reporting(0);
 
-$config_url=$_SERVER["SERVER_NAME"].'/bbwellness';	
+$config_url=$_SERVER["SERVER_NAME"];	
 
 $config['database']['servername'] = 'localhost';
 $config['database']['username'] = 'root';
