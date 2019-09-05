@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'VNFVAGRoundedLight';
+    src: url('fonts/VNFVAGRoundedLight/VNFVAGRoundedLight.eot');
+    src: url('fonts/VNFVAGRoundedLight/VNFVAGRoundedLight.eot') format('embedded-opentype'),
+         url('fonts/VNFVAGRoundedLight/VNFVAGRoundedLight.woff2') format('woff2'),
+         url('fonts/VNFVAGRoundedLight/VNFVAGRoundedLight.woff') format('woff'),
+         url('fonts/VNFVAGRoundedLight/VNFVAGRoundedLight.ttf') format('truetype'),
+         url('fonts/VNFVAGRoundedLight/VNFVAGRoundedLight.svg#VNFVAGRoundedLight') format('svg');
+}

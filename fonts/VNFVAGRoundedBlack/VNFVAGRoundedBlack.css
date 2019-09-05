@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'VNFVAGRoundedBlack';
+    src: url('fonts/VNFVAGRoundedBlack/VNFVAGRoundedBlack.eot');
+    src: url('fonts/VNFVAGRoundedBlack/VNFVAGRoundedBlack.eot') format('embedded-opentype'),
+         url('fonts/VNFVAGRoundedBlack/VNFVAGRoundedBlack.woff2') format('woff2'),
+         url('fonts/VNFVAGRoundedBlack/VNFVAGRoundedBlack.woff') format('woff'),
+         url('fonts/VNFVAGRoundedBlack/VNFVAGRoundedBlack.ttf') format('truetype'),
+         url('fonts/VNFVAGRoundedBlack/VNFVAGRoundedBlack.svg#VNFVAGRoundedBlack') format('svg');
+}
